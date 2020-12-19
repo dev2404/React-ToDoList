@@ -22,7 +22,7 @@ function ToDoList() {
       <div className="main_div">
         <div className="center_div">
           <br />
-          <h1>ToDo List</h1>
+          <h1>ToDoList</h1>
           <br />
           <input
             type="text"
