@@ -1,0 +1,12 @@
+.heading_style {
+  padding: 30px 0;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  background-color: #fff;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}

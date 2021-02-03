@@ -1,0 +1,9 @@
+footer {
+  background-color: darkorange;
+  height: 41px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 60vh;
+  padding-top: 12px;
+}
